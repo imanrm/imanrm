@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Java
+- 💬 Ask me about anything 😊
+- 📫 How to reach me: Gmail, Linkedin
+- 😄 Fun fact: Enjoys to walk in the snow ❄️
